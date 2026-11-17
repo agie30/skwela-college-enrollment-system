@@ -1,0 +1,22 @@
+backend/routes/schedules.php:223: trailing whitespace.
+[32m+[m[32m];[m[41m     [m
+backend/routes/sections.php:22: trailing whitespace.
+[32m+[m[41m    [m
+frontend/admin/registrars.php:82: trailing whitespace.
+[32m+[m[41m    [m
+frontend/assets/js/admin-dashboard.js:1639: trailing whitespace.
+[32m+[m[41m    [m
+frontend/assets/js/admin-dashboard.js:1639: new blank line at EOF.
+frontend/assets/js/registrar-students.js:769: trailing whitespace.
+[32m+[m[41m   [m
+frontend/assets/js/registrar-students.js:813: trailing whitespace.
+[32m+[m[41m  [m
+frontend/assets/js/registrar-students.js:826: trailing whitespace.
+[32m+[m[41m  [m
+frontend/assets/js/registrar-students.js:833: trailing whitespace.
+[32m+[m[41m   [m
+frontend/assets/js/registrar-students.js:840: trailing whitespace.
+[32m+[m[41m  [m
+frontend/registrar/dashboard.php:3379: trailing whitespace.
+[32m+[m[41m    [m
+frontend/registrar/dashboard.php:3379: new blank line at EOF.

@@ -1,0 +1,36 @@
+
+# Database credentials
+/backend/config/database.php
+.env
+.env.*
+!.env.example
+
+# Student documents and profile pictures
+**/uploads/
+
+# Database backups and real records
+/database/backups/
+*.sql
+*.dump
+*.sqlite
+
+# Local archives
+*.zip
+*.7z
+*.rar
+*.bak
+*.old
+*.log
+*.tmp
+
+# Local testing files
+/api-tests.http
+/create_test_registrar.php
+/create_test_student.php
+/test_connection.php
+
+# Editor settings
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
